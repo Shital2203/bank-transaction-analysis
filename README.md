@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview
 This project analyzes fake bank transaction data to detect spending patterns and anomalies.  
-It’s designed for fintech data analyst roles.
+
 
 🔹 Features
 - Generate synthetic transaction data
